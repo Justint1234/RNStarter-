@@ -1,0 +1,481 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+MERGED from [:react-native-reanimated] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/45b4c53d26c4397e0d88a32c489ded8f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cc3ea68ad5e2b4fb85b71be0e13d766a/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/70a1a24794131d7d2b9481cd5ede7b52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/71361ad13e4d07572c0c3d5897150970/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/845a662339dca1e056f064143b9c9671/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9bc0d5f61ff7deb578181f14cc4bf561/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/2edc3b14d024dad148c29573bb093749/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/aa92104c1414dc2f4773555d6cc1973b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0433b649c0ab1ae241df341d1baf9113/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/90cc7d7d6d572156305692525b5e4d60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/639f8109ab3ad9bc3bff5db3e1a1786c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/64a8a6dc72388ffe6a4ee0973ea229a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1b2ced0986834e346a5839337f32c2ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b6cb7cba6844b19505ddfb60bd3d1268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a24ea451817b07514594f3d67b760aa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/38fc68519a5cfbfea9673116ccfc919a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42ccfb32112fc15b03cd7abd98f6c2b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/044d4b05334657238e082bc02819be55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e1da190f588b1cd6e6813fd51283a043/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bc31bd25f5683d2f6566769bc87f6471/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a70139fd6a1d7369c834a9e58a15e236/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/868c0198d3fbbb1a2e4f43b9015c6062/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a5e17f906519183ceadd4ab9ed296a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1ce68c1f674572880243c7514b0c7f63/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bacf249ee138df3cd5bf24d2c80b4409/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/42f720ba6edc75b6cae7792349a0bab7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a456457f6429287ba8da7892cd1b4d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/16dfe19de852c6bc0f2ddc9714bbab2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a3918e56488a7f8029323c907a5259cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e5c6da95b383e7f378a26fb9bfec834b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f950c852206ad691abf80b48513d1358/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/59451e6b97d659c2f69ee43d977470af/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/64fa79495cf6207ead7c3300b1fb4989/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/91996d389ca528ef52261650b8e88b03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/90ce7bb81c13d599abf3ec3a820e9c90/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3e4ab1007d1b572620d2ae2ca37a4168/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/7c170a1902540fffc34d26aa30715264/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/7e5b65b537931148dc1e4a798baa48b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b53449afb5b4c20c472cc1a4607215bd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/555f4972fb048f71db5f5d9038cde325/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0d9aca89c0c62a5c27804497232c0c4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6dcb12c63e993e574d29a3bcc0d97621/AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/44ac345d9805640ad0f6b2280a1d5df2/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:1-49:12
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:28:5-47:19
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/45b4c53d26c4397e0d88a32c489ded8f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/45b4c53d26c4397e0d88a32c489ded8f/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/71361ad13e4d07572c0c3d5897150970/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/71361ad13e4d07572c0c3d5897150970/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/845a662339dca1e056f064143b9c9671/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/845a662339dca1e056f064143b9c9671/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9bc0d5f61ff7deb578181f14cc4bf561/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9bc0d5f61ff7deb578181f14cc4bf561/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/2edc3b14d024dad148c29573bb093749/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/2edc3b14d024dad148c29573bb093749/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1ce68c1f674572880243c7514b0c7f63/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1ce68c1f674572880243c7514b0c7f63/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bacf249ee138df3cd5bf24d2c80b4409/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bacf249ee138df3cd5bf24d2c80b4409/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/59451e6b97d659c2f69ee43d977470af/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/59451e6b97d659c2f69ee43d977470af/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6dcb12c63e993e574d29a3bcc0d97621/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6dcb12c63e993e574d29a3bcc0d97621/AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1ce68c1f674572880243c7514b0c7f63/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:35:9-69
+	android:usesCleartextTraffic
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:33:35-70
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.rnstarter.MainActivity
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:36:7-45:18
+	android:label
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:38:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:40:9-51
+	android:configChanges
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:39:9-79
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:37:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:41:9-44:25
+action#android.intent.action.MAIN
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:42:13-65
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:42:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:43:13-73
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:43:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:46:7-84
+	android:name
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml:46:17-81
+uses-sdk
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-reanimated] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/45b4c53d26c4397e0d88a32c489ded8f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/react-native-0.59.10.aar/45b4c53d26c4397e0d88a32c489ded8f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cc3ea68ad5e2b4fb85b71be0e13d766a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/cc3ea68ad5e2b4fb85b71be0e13d766a/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/70a1a24794131d7d2b9481cd5ede7b52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/70a1a24794131d7d2b9481cd5ede7b52/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/71361ad13e4d07572c0c3d5897150970/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/71361ad13e4d07572c0c3d5897150970/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/845a662339dca1e056f064143b9c9671/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/845a662339dca1e056f064143b9c9671/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9bc0d5f61ff7deb578181f14cc4bf561/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9bc0d5f61ff7deb578181f14cc4bf561/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/2edc3b14d024dad148c29573bb093749/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/2edc3b14d024dad148c29573bb093749/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/aa92104c1414dc2f4773555d6cc1973b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/aa92104c1414dc2f4773555d6cc1973b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0433b649c0ab1ae241df341d1baf9113/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0433b649c0ab1ae241df341d1baf9113/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/90cc7d7d6d572156305692525b5e4d60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/90cc7d7d6d572156305692525b5e4d60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/639f8109ab3ad9bc3bff5db3e1a1786c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/639f8109ab3ad9bc3bff5db3e1a1786c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/64a8a6dc72388ffe6a4ee0973ea229a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/64a8a6dc72388ffe6a4ee0973ea229a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1b2ced0986834e346a5839337f32c2ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1b2ced0986834e346a5839337f32c2ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b6cb7cba6844b19505ddfb60bd3d1268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b6cb7cba6844b19505ddfb60bd3d1268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a24ea451817b07514594f3d67b760aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a24ea451817b07514594f3d67b760aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/38fc68519a5cfbfea9673116ccfc919a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/38fc68519a5cfbfea9673116ccfc919a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42ccfb32112fc15b03cd7abd98f6c2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42ccfb32112fc15b03cd7abd98f6c2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/044d4b05334657238e082bc02819be55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/044d4b05334657238e082bc02819be55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e1da190f588b1cd6e6813fd51283a043/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e1da190f588b1cd6e6813fd51283a043/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bc31bd25f5683d2f6566769bc87f6471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bc31bd25f5683d2f6566769bc87f6471/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a70139fd6a1d7369c834a9e58a15e236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a70139fd6a1d7369c834a9e58a15e236/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/868c0198d3fbbb1a2e4f43b9015c6062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/868c0198d3fbbb1a2e4f43b9015c6062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a5e17f906519183ceadd4ab9ed296a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a5e17f906519183ceadd4ab9ed296a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1ce68c1f674572880243c7514b0c7f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1ce68c1f674572880243c7514b0c7f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bacf249ee138df3cd5bf24d2c80b4409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/bacf249ee138df3cd5bf24d2c80b4409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/42f720ba6edc75b6cae7792349a0bab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/42f720ba6edc75b6cae7792349a0bab7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a456457f6429287ba8da7892cd1b4d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a456457f6429287ba8da7892cd1b4d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/16dfe19de852c6bc0f2ddc9714bbab2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/16dfe19de852c6bc0f2ddc9714bbab2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a3918e56488a7f8029323c907a5259cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a3918e56488a7f8029323c907a5259cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e5c6da95b383e7f378a26fb9bfec834b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e5c6da95b383e7f378a26fb9bfec834b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f950c852206ad691abf80b48513d1358/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f950c852206ad691abf80b48513d1358/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/59451e6b97d659c2f69ee43d977470af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/59451e6b97d659c2f69ee43d977470af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/64fa79495cf6207ead7c3300b1fb4989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/64fa79495cf6207ead7c3300b1fb4989/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/91996d389ca528ef52261650b8e88b03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/91996d389ca528ef52261650b8e88b03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/90ce7bb81c13d599abf3ec3a820e9c90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/90ce7bb81c13d599abf3ec3a820e9c90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3e4ab1007d1b572620d2ae2ca37a4168/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3e4ab1007d1b572620d2ae2ca37a4168/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/7c170a1902540fffc34d26aa30715264/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/7c170a1902540fffc34d26aa30715264/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/7e5b65b537931148dc1e4a798baa48b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/7e5b65b537931148dc1e4a798baa48b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b53449afb5b4c20c472cc1a4607215bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b53449afb5b4c20c472cc1a4607215bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/555f4972fb048f71db5f5d9038cde325/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/555f4972fb048f71db5f5d9038cde325/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0d9aca89c0c62a5c27804497232c0c4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0d9aca89c0c62a5c27804497232c0c4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6dcb12c63e993e574d29a3bcc0d97621/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/6dcb12c63e993e574d29a3bcc0d97621/AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/44ac345d9805640ad0f6b2280a1d5df2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/44ac345d9805640ad0f6b2280a1d5df2/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinwilliams/Downloads/RNStarterBegin/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/justinwilliams/Downloads/RNStarterBegin/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/f47ff399390a4f7dd61a1ad6a4b0a468/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/4a1e63809e4e282a5054c2b5ec4c6b30/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/justinwilliams/.gradle/caches/transforms-1/files-1.1/library-3.2.11.aar/200fb33c09e3bec307e6e236dda855cb/AndroidManifest.xml:26:13-120
