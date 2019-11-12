@@ -1,10 +1,9 @@
-import React, { useState } from "react";
+import React, { useReducer } from "react";
 import { View, Text, StyleSheet } from "react-native";
 import ColorCounter from "../components/ColorCounter";
 
 const COLOR_INCREMENT = 15;
 
-const SquareScreen = () => {
     const reducer = (state, action) => {
 
         switch (action.colorToChange) {
@@ -19,13 +18,18 @@ const SquareScreen = () => {
         }
     };
 
-
+    const SquareScreen = () => {
     const [state, dispatch] = useReducer(reducer, {red: 0, green: 0, blue: 0});
+    const { red, green, blue } = state; 
   return (
     <View>
       <ColorCounter
-        onIncrease={() => dispatch({ colorToChange: 'red', amount: COLOR_INCREMENT })}
-        onDecrease={() => dispatch({ colorToChange: 'red', amount: -1 * COLOR_INCREMENT })}
+        onIncrease={() => 
+            dispatch({ colorToChange: 'red', amount: COLOR_INCREMENT })
+    }
+        onDecrease={() => 
+            dispatch({ colorToChange: 'red', amount: -1 * COLOR_INCREMENT })
+    }
         color="Red"
       />
       <ColorCounter
@@ -42,7 +46,7 @@ const SquareScreen = () => {
         style={{
           height: 150,
           width: 150,
-          backgroundColor: `rgb(${red},${green},${blue})`
+          backgroundColor: `rgb(${state.red},${state.green},${state.blue})`
         }}
       />
     </View>
