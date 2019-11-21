@@ -31,21 +31,29 @@ const COLOR_INCREMENT = 15;
     <View>
       <ColorCounter
         onIncrease={() => 
-            dispatch({ colorToChange: 'red', amount: COLOR_INCREMENT })
+            dispatch({ type: 'red', payload: COLOR_INCREMENT })
     }
         onDecrease={() => 
-            dispatch({ colorToChange: 'red', amount: -1 * COLOR_INCREMENT })
+            dispatch({ type: 'red', payload: -1 * COLOR_INCREMENT })
     }
         color="Red"
       />
       <ColorCounter
-        onIncrease={() => dispatch({ colorToChange: 'blue', amount: COLOR_INCREMENT })}
-        onDecrease={() => dispatch({ colorToChange: 'blue', amount: -1 * COLOR_INCREMENT })}
+        onIncrease={() => 
+          dispatch({ type: 'blue', payload: COLOR_INCREMENT })
+        }
+        onDecrease={() => 
+          dispatch({ type: 'blue', payload: -1 * COLOR_INCREMENT })
+        }
         color="Blue"
       />
       <ColorCounter
-        onIncrease={() => dispatch({ colorToChange: 'green', amount: COLOR_INCREMENT })}
-        onDecrease={() => dispatch({ colorToChange: 'green', amount: -1 * COLOR_INCREMENT })}
+        onIncrease={() => 
+          dispatch({ type: 'green', payload: COLOR_INCREMENT })
+        }
+        onDecrease={() => 
+          dispatch({ type: 'green', payload: -1 * COLOR_INCREMENT })
+        }
         color="Green"
       />
       <View
