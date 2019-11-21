@@ -1,53 +1,43 @@
-import React, { useState } from 'react';
-import { View, Text, StyleSheet, Button } from 'react-native';
+import React, { useReducer } from "react";
+import { View, Text, StyleSheet, Button } from "react-native";
+
+const reducer = (state, action) => {
+    switch (action.type) {
+        case 'increment':
+            return {...state, count: state.count + action.payload };
+        case 'decrement':
+            return {...state, count: state.count - action.payload };
+            default:  
+            return state;
+    }
+};
 
 const CounterScreen = () => {
-    const [countObj, setCountObj] = useState({counter: 0, timesIncreased: 0, timesDecreased: 0});
+    const [state, dispatch] = useReducer(reducer, { count: 0 })
+  return (
+    <View>
+      <Button title="Increase"
+       onPress={() => {
+        dispatch({type: 'increment, payload: 1'})
+       }} 
+       />
+      <Button title="Decrease"
+       onPress={() => {
+        dispatch({type: 'decrement', payload: 1})
+       }} 
+       />
+      <Text>Current Count: {state.count}</Text>
+    </View>
+  );
+};
 
-    return (
-        <View>
-            <View style = 
-            {styles.buttonMargin}>
-            <Button
-                title="Increase"
-                onPress ={() => {
-                    setCountObj({counter: countObj.counter + 1, timesIncreased: 
-                        countObj.timesIncreased + 1, timesDecreased: 
-                        countObj.timesDecreased});
-                }}
-            />
-            </View>
-            <View style = {styles.buttonMargin}>
-            <Button
-                title="Decrease"
-                onPress={() => {
-                    setCountObj({counter: countObj.counter - 1, timesIncreased:
-                    countObj.timesIncreased, timesDecreased: countObj.timesDecreased + 1});
-                }}
-            />
-            </View> 
-            <Text style= {styles.textStyle}>
-                Current Count: {countObj.counter}
-                </Text>
-                <Text style= {styles.textStyle}>
-                    Times Increased: {countObj.timesIncreased}
-                    </Text> 
-                    <Text style= {styles.textStyle}>
-                    Times Decreased: {countObj.timesDecreased}
-                    </Text> 
-                    </View>
-    );
-            }
-
-            const styles = StyleSheet.create({
-                buttonMargin: { 
-                    marginTop: 10 
-                },
-                textStyle: {
-                    textAlign: "center",
-                    margin: 10
-                }
-
-            });
-            export default CounterScreen;
-                    
+const styles = StyleSheet.create({
+  buttonMargin: {
+    marginTop: 10
+  },
+  textStyle: {
+    textAlign: "center",
+    margin: 10
+  }
+});
+export default CounterScreen;
