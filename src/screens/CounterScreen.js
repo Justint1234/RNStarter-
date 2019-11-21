@@ -18,7 +18,7 @@ const CounterScreen = () => {
     <View>
       <Button title="Increase"
        onPress={() => {
-        dispatch({type: 'increment, payload: 1'})
+        dispatch({type: 'increment', payload: 1})
        }} 
        />
       <Button title="Decrease"
