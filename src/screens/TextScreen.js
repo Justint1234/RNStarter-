@@ -13,10 +13,9 @@ const TextScreen = () => {
         autoCapitalize="none"
         autoCorrect={false}
         value={password}
-        onChangeText={newValue => setName(newValue)}
+        onChangeText={newValue => setPassword(newValue)}
         />
-        <Text>My Name is {name}</Text>
-        {false ? <Text>That was true</Text> : null}
+        {password.length < 4 ? <Text>Password must be 4 characters </Text> : null}
     </View>
     );
 
