@@ -6,7 +6,7 @@ const BoxScreen = () => {
     <View style={styles.parentStyle}>
         <View style={styles.viewOneStyle}/>
         <View style={styles.viewTwoStyle}/>
-        <View style={styles.ViewThreeStyle}/>
+        <View style={styles.viewThreeStyle}/>
     </View>
     );
 };
@@ -15,8 +15,7 @@ const styles = StyleSheet.create({
     parentStyle: {
         borderWidth: 3,
         borderColor: 'black',
-        flexDirection: 'row',
-        height: 200,
+        height: 200
     },
     viewOneStyle: { 
     height: 50,
